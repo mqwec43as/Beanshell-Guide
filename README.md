@@ -1,4 +1,4 @@
-Minimal beanshell (Java code) guide for Tasker
+Minimal Java code tips for Tasker
 
 &nbsp;
 
